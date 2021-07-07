@@ -17,7 +17,7 @@ from keras.layers import Dense
 from keras.layers import Dropout
 import seaborn as sn
 import matplotlib as pt
-pip install tensorflow==1.2.0 --ignore-installed
+
 
 """Compiled by:
 1.  Perceviarance Chitima R195807D
