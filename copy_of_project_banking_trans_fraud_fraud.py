@@ -17,6 +17,9 @@ from keras.layers import Dense
 from keras.layers import Dropout
 import seaborn as sn
 import matplotlib as pt
+conda create -n tensorflow python=3.5
+activate tensorflow
+pip install --ignore-installed --upgrade tensorflow
 
 """Compiled by:
 1.  Perceviarance Chitima R195807D
